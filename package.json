@@ -1,0 +1,13 @@
+{
+  "name": "inkdrop-color-collection",
+  "main": "./lib/inkdrop-color-collection",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/inkdrop-color-collection",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}

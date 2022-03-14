@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle inkdrop-color-collection",
+        "command": "inkdrop-color-collection:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-color-collection",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "inkdrop-color-collection:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
