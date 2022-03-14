@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle inkdrop-color-collection",
-        "command": "inkdrop-color-collection:toggle"
+        "label": "Toggle color-collection",
+        "command": "color-collection:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "inkdrop-color-collection",
+          "label": "color-collection",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "inkdrop-color-collection:toggle"
+              "command": "color-collection:toggle"
             }
           ]
         }
