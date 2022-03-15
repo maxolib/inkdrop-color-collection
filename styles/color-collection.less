@@ -1,2 +1,32 @@
-.color-collection {
+
+.color-tag, .color-stack {
+	display: flex;
+	flex-direction: row;
+	border-radius: 10px;
+}
+
+.color-tag-box {
+	width: 15px;
+	height: 15px;
+	border-radius: 2px;
+	margin-right: 5px;
+}
+
+.color-stack-box {
+	flex: 1;
+	height: 100px;
+}
+
+.color-stack-box:first-child {
+	border-radius: 10px 0px 0px 10px;
+}
+
+.color-stack-box:last-child {
+	border-radius: 0px 10px 10px 0px;
+}
+
+.color-text-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }

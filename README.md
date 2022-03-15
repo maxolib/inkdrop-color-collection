@@ -18,3 +18,8 @@ TO DO
 ## 0.1.0 - First Release
 * Every feature added
 * Every bug fixed
+
+``` mermaid
+graph TD;
+	a-->B;
+```

@@ -1,13 +1,12 @@
 {
   "name": "color-collection",
   "main": "./lib/index",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [],
   "repository": "https://github.com/maxolib/inkdrop-color-collection",
   "license": "MIT",
   "engines": {
-    "inkdrop": "^5.3.1"
+    "inkdrop": "^5.x"
   },
-  "dependencies": {}
+  "devDependencies": {}
 }
