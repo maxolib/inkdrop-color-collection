@@ -1,5 +1,5 @@
 # Color Collection
-a plugin for collecting and virsualize your colors data in Inkdrop
+a plugin for collecting and visualizing your colors in Inkdrop
 
 ![](doc/images/example.gif)
 

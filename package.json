@@ -2,7 +2,7 @@
   "name": "color-collection",
   "main": "./lib/index",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "a plugin for collecting and visualizing your colors in Inkdrop",
   "repository": "https://github.com/maxolib/inkdrop-color-collection",
   "license": "MIT",
   "engines": {
